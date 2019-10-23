@@ -1,4 +1,4 @@
-token=NjM2MzkyNDMwNDA0NTAxNTA0.Xa_HVw.RzrYHWzi22yP4QKKAWC4eJ9lChk
+token=NjM2MzkyNDMwNDA0NTAxNTA0.Xa_ICw.S1Fms4wdOoNTYOPzfeBqVHzl858
 owner=581968081082122250
 prefix=-
 stayinchannel=true
